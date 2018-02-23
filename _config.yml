@@ -1,1 +1,14 @@
 theme: jekyll-theme-architect
+
+title: Programmazione di applicazioni software
+description: Programming @ DIA, UniPR
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+github:
+  zip_url: https://github.com/albertoferrari/pasw/archive/master.zip
+  tar_url: https://github.com/albertoferrari/pasw/archive/master.tar.gz
+
+gems:
+  - jekyll-mentions
