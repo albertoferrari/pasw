@@ -1,7 +1,5 @@
-theme: jekyll-theme-modernist
-
 title: Programmazione di applicazioni software
 description: Programming @ DIA, UniPR
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-modernist
