@@ -22,6 +22,11 @@ Si suppone comunque che lo studente abbia seguito il corso di “Informatica e l
 5. Sviluppo di applicazioni in ambiente locale e applicazioni distribuite
 
 ### Metodi didattici
-Lezioni in aula, con l'ausilio di slide rese disponibili in anticipo agli studenti. Soluzione guidata di esercizi in aula. Esercizi di programmazione in laboratorio.
-Le esercitazioni in laboratorio sono centrali per il corso. Gli esercizi proposti vertono sugli stessi argomenti generali delle lezioni in aula. L'obiettivo è di affrontare le problematiche legate alla programmazione di applicazioni software, guidando lo studente alla soluzione di problemi con un livello di complessità crescente.
+Lezioni in aula, con l'ausilio di slide rese disponibili agli studenti. 
+Soluzione guidata di esercizi in aula. Esercizi di programmazione in laboratorio.
+
+Le esercitazioni in laboratorio sono centrali per il corso. Gli esercizi proposti vertono sugli stessi argomenti generali delle lezioni in aula. 
+
+L'obiettivo è di affrontare le problematiche legate alla programmazione di applicazioni software, guidando lo studente alla soluzione di problemi con un livello di complessità crescente.
+
 Come trama continua del corso, agli studenti verrà proposto lo sviluppo incrementale di un'applicazione e, facendo leva sui suoi requisiti, sul suo sviluppo e sulla sua ottimizzazione, verranno recuperati o introdotti concetti fondamentali della programmazione object oriented, della multiprogrammazione e dell’interazione tra processi.
