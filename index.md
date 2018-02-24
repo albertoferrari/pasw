@@ -1,6 +1,6 @@
 ## Università di Parma
-- [Ingegneria dei sistemi informativi](http://www.dia.unipr.it/it)
+- [Ingegneria dei Sistemi Informativi](http://www.dia.unipr.it/it)
 
-### Programmazione di applicazioni software 
+### Programmazione di Applicazioni Software 
 - [Presentazione del corso](http://albertoferrari.github.io/pasw/intro.html)
 
