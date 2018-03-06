@@ -13,4 +13,4 @@
 - [Dati strutturati](http://albertoferrari.github.io/pasw/lezioni/PASW03e%20-%20C%2B%2B%20dati%20strutturati.pdf)
 
 ### Esercitazioni 
-- [2018-02-17](https://github.com/albertoferrari/pasw/tree/gh-pages/esercitazioni)
+- [esercizi proposti](https://github.com/albertoferrari/pasw/tree/gh-pages/esercitazioni)
