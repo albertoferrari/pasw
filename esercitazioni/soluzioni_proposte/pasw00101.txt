@@ -1,0 +1,47 @@
+/*
+* (pasw00101.cpp)
+* input 3 valori interi che rappresentano giorno, mese e anno
+* Verificare che si tratti di una data corretta compresa fra 
+* sabato 01/01/1600 e venerdì 31/12/2100 
+* visualizzare il giorno della settimana relativo alla data inserita
+* author: AF
+* version: 1.0
+*/
+#include <iostream>
+
+using namespace std;
+
+// true se a e' bisestile
+bool bisestile(int a);
+
+int main() {   
+    int g_trascorsi;		// giorni trascorsi dal 01/01/1600
+    // input dati
+	int giorno,mese,anno;
+	// verifica anno
+	// verifica mese
+	int g_mese[12] = {31,28,31,30,31,30,31,31,30,31,30,31};
+	// se anno bisestile febbraio -> 29 giorni
+	// verifica giorno
+	bool dataCorretta = true;
+	if (dataCorretta) {
+		// calcola giorni passati da inizio anno	
+		// calcola anni passati e giorni passati da 01/01/1600
+		// per ogni anno somma 365 o 366 se bisestile
+		// 01/01/1600 sabato -> indice 5
+		string g_sett[7] = {"lun","mar","mer","gio","ven","sab","dom"};
+		// calcola giorno settimana
+	}
+	
+    return 0;
+}
+
+/*
+ * true se a e' un anno bisestile
+ * Nel calendario gregoriano sono bisestili:
+ * gli anni non secolari il cui numero è divisibile per 4;
+ * gli anni secolari il cui numero è divisibile per 400. 
+ */
+bool bisestile(int a){
+	// ...
+}

@@ -1,6 +1,6 @@
 /*
-* (pasw00102.cpp)
-* input 8 caratteri ("0" o "1") rappresentazione binaria
+* (pasw00102a.cpp)
+* input 8 caratteri (‘0’ o ‘1’) rappresentazione binaria
 * di un numero intero senza segno
 * output rappresentazione decimale ed esadecimale
 * author: AF
@@ -22,5 +22,5 @@ int main() {
         }
     }
     cout << "Valore decimale: " << valDec << endl;
-    cout << "Valore esadecimale: " << hex << valDec << endl;
+    cout << "valore esadecimale: " << hex << valDec << endl;
 }
