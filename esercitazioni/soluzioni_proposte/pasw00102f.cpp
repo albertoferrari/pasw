@@ -10,7 +10,7 @@
 
 using namespace std;
 
-// restituisce cifra decimale relativa al valore n (0..15)
+// restituisce cifra esadecimale relativa al valore n (0..15)
 char cifraHex(int n);
 
 int main() {
@@ -33,6 +33,7 @@ int main() {
 	cout << "Valore esadecimale " << cifraHex(valDec/16) << cifraHex(valDec%16) << endl;
 }
 
+// restituisce cifra esadecimale relativa al valore n (0..15)
 char cifraHex(int n){
 	if (n<0 || n>15)
 		return ' ';
