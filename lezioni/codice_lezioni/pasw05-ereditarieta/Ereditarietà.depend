@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1521456038 source:c:\users\zferrari\desktop\ereditarietà\main.cpp
+	<iostream>
+	"Animale.h"
+
+1521455616 c:\users\zferrari\desktop\ereditarietà\include\animale.h
+
+1521455566 source:c:\users\zferrari\desktop\ereditarietà\src\animale.cpp
+	"Animale.h"
+	<iostream>
+
+1521469097 source:c:\users\alber\desktop\ereditarietà\main.cpp
+	<iostream>
+	"Animale.h"
+	"Cane.h"
+
+1521468890 c:\users\alber\desktop\ereditarietà\include\animale.h
+
+1521469173 source:c:\users\alber\desktop\ereditarietà\src\animale.cpp
+	"Animale.h"
+	<iostream>
+
+1521468719 source:c:\users\alber\desktop\ereditarietà\src\cane.cpp
+	"Cane.h"
+	<iostream>
+
+1521468976 c:\users\alber\desktop\ereditarietà\include\cane.h
+	<Animale.h>
+	<string>
+
