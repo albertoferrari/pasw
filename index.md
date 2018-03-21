@@ -12,7 +12,7 @@
 - [Funzioni](http://albertoferrari.github.io/pasw/lezioni/PASW03d%20-%20C%2B%2B%20funzioni.pdf)
 - [Dati strutturati](http://albertoferrari.github.io/pasw/lezioni/PASW03e%20-%20C%2B%2B%20dati%20strutturati.pdf)
 - [Object Oriented Programming](http://albertoferrari.github.io/pasw/lezioni/PASW04%20-%20object%20oriented%20programming.pdf)
-- [Ereditarietà](https://github.com/albertoferrari/pasw/blob/gh-pages/lezioni/PASW05%20-%20ereditariet%C3%A0.pdf)
+- [Ereditarietà](http://albertoferrari.github.io/pasw/lezioni/PASW05%20-%20ereditariet%C3%A0.pdf)
 
 ### Esercitazioni 
 - [esercizi proposti](https://github.com/albertoferrari/pasw/tree/gh-pages/esercitazioni)
