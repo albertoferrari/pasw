@@ -15,5 +15,7 @@ MiaDataOra::MiaDataOra(int anno, int mese, int giorno, int ora, int minuto, std:
 
 void MiaDataOra::stampa() const
 {
+    MiaData::stampa(); std::cout << " ";
+    MaiOra::stampa(); std::cout << " ";
     std::cout << "giorno settimana = " << giornoSett;
 }
