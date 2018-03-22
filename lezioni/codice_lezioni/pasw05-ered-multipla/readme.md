@@ -1,1 +1,2 @@
 
+Esempio ereditarietà multipla
