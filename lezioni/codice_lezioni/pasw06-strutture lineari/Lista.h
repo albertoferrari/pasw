@@ -1,5 +1,6 @@
 #ifndef LISTA_H
 #define LISTA_H
+#include<iostream>
 #include "Nodo.h"
 
 class Lista
@@ -16,6 +17,8 @@ class Lista
         void inserisci(link,int);
         void inverti();
         void stampa();
+        Lista operator+(Lista tail);
+        friend std::ostream & operator<<( std::ostream &out, Lista &lis);
     private:
         link testa;
 };

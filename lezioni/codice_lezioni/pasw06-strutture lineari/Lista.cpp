@@ -16,6 +16,19 @@ void Lista::insTesta(link n)
     testa = n;
 }
 
+void Lista::insCoda(link n)
+{
+    if (testa==nullptr) {
+        insTesta(n);
+        return;
+    }
+    link t = testa;
+    while(t->getNext()!=nullptr) {
+        t = t->getNext();
+    }
+    t->setNext(n);
+}
+
 void Lista::stampa()
 {
     link p = testa;
@@ -25,6 +38,15 @@ void Lista::stampa()
         p = p->getNext();
     }
     std::cout << std::endl;
+}
+
+link Lista::elimTesta() {
+    if (testa==nullptr)
+        return nullptr;
+    link t = testa;
+    testa = testa->getNext();
+    t->setNext(nullptr);
+    return t;
 }
 
 link Lista::elimCoda()
@@ -55,4 +77,29 @@ void Lista::inverti()
         y = t;
     }
     testa = r;
+}
+
+Lista Lista::operator+(Lista tail) {
+    Lista newList;
+    link t = testa;
+    while (t!=nullptr) {
+        newList.insCoda(new Nodo(t->getInfo()));
+        t=t->getNext();
+    }
+    t=tail.testa;
+    while (t!=nullptr) {
+        newList.insCoda(new Nodo(t->getInfo()));
+        t=t->getNext();
+    }
+    return newList;
+}
+
+std::ostream & operator<<( std::ostream &out, Lista &lis)
+{
+    link t = lis.testa;
+    while (t!=nullptr) {
+        out << t->getInfo() << " -> ";
+        t = t->getNext();
+    }
+    out << "// " << std::endl;
 }
