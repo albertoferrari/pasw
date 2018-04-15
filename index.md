@@ -17,5 +17,8 @@
 - [Strutture dati non lineari](http://albertoferrari.github.io/pasw/lezioni/PASW07%20-%20strutture%20non%20lineari.pdf)
 - [Programmazione generica](http://albertoferrari.github.io/pasw/lezioni/PASW09%20-%20programmazione%20generica.pdf)
 
+## Codice presentato a lezione
+- [esempi](https://github.com/albertoferrari/pasw/tree/gh-pages/lezioni/codice_lezioni)
+
 ### Esercitazioni 
 - [esercizi proposti](https://github.com/albertoferrari/pasw/tree/gh-pages/esercitazioni)
