@@ -15,6 +15,7 @@
 - [Ereditarietà](http://albertoferrari.github.io/pasw/lezioni/PASW05%20-%20ereditariet%C3%A0.pdf)
 - [Strutture dati lineari](http://albertoferrari.github.io/pasw/lezioni/PASW06%20-%20strutture%20lineari.pdf)
 - [Strutture dati non lineari](http://albertoferrari.github.io/pasw/lezioni/PASW07%20-%20strutture%20non%20lineari.pdf)
+- [Programmazione generica](http://albertoferrari.github.io/pasw/lezioni/PASW09%20-%20programmazione%20generica.pdf)
 
 ### Esercitazioni 
 - [esercizi proposti](https://github.com/albertoferrari/pasw/tree/gh-pages/esercitazioni)
