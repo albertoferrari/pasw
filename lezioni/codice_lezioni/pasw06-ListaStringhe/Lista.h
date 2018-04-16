@@ -15,7 +15,7 @@ public:
    bool elimTesta(std::string & value);
    bool elimCoda(std::string & value);
    bool vuota() const;
-   Lista* operator+(Lista altraLista);
+   Lista* operator+(Lista &altraLista);
    friend std::ostream & operator<< (std::ostream & os, const Lista & lst);
 };
 
@@ -86,7 +86,7 @@ std::ostream & operator<< (std::ostream & os, const Lista & lst) {
    return os;
 }
 
-Lista* Lista::operator+(Lista altraLista) {
+Lista* Lista::operator+(Lista &altraLista) {
  Lista* newList = new Lista();
  Nodo* t = testa;
  while (t!=nullptr) {
