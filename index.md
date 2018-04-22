@@ -16,6 +16,7 @@
 - [Strutture dati lineari](http://albertoferrari.github.io/pasw/lezioni/PASW06%20-%20strutture%20lineari.pdf)
 - [Strutture dati non lineari](http://albertoferrari.github.io/pasw/lezioni/PASW07%20-%20strutture%20non%20lineari.pdf)
 - [Programmazione generica](http://albertoferrari.github.io/pasw/lezioni/PASW09%20-%20programmazione%20generica.pdf)
+- [Array: ricerca e ordinamento](http://albertoferrari.github.io/pasw/lezioni/PASW08%20-%20array%20-%20ricerca%20ordinamento.pdf)
 
 #### Codice presentato a lezione
 - [esempi](https://github.com/albertoferrari/pasw/tree/gh-pages/lezioni/codice_lezioni)
