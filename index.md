@@ -19,6 +19,7 @@
 - [Array: ricerca e ordinamento](http://albertoferrari.github.io/pasw/lezioni/PASW08%20-%20array%20-%20ricerca%20ordinamento.pdf)
 - [Standatd Template Library](http://albertoferrari.github.io/pasw/lezioni/PASW10%20-%20standard%20template%20library.pdf)
 - [Architettura dell'elaboratore](http://albertoferrari.github.io/pasw/lezioni/PASW11%20-%20architettura.pdf)
+- [Introduzione ai sistemi operativi](http://albertoferrari.github.io/pasw/lezioni/PASW12%20-%20sistemi%20operativi.pdf)
 
 #### Codice presentato a lezione
 - [esempi](https://github.com/albertoferrari/pasw/tree/gh-pages/lezioni/codice_lezioni)
