@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1526368159 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\pasw01001\persona.cpp
+	"Persona.h"
+
+1526368159 c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\pasw01001\persona.h
+	<string>
+
+1526368159 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\pasw01001\docente.cpp
+	"Docente.h"
+
+1526368584 c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\pasw01001\docente.h
+	"Persona.h"
+	<vector>
+
+1526368159 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\pasw01001\ricercatore.cpp
+	"Ricercatore.h"
+
+1526368589 c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\pasw01001\ricercatore.h
+	<vector>
+	"Persona.h"
+
+1526368159 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\pasw01001\studente.cpp
+	"Studente.h"
+
+1526368593 c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\pasw01001\studente.h
+	"Persona.h"
+
+1526368159 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\pasw01001\tools.cpp
+	"Persona.h"
+	<string>
+
+1526402294 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\dipartimento.cpp
+	"Dipartimento.h"
+	<fstream>
+	<algorithm>
+
+1526401776 c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\dipartimento.h
+	<string>
+	<vector>
+	"Persona.h"
+
+1526407145 c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\persona.h
+	<string>
+
+1526398321 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\docente.cpp
+	"Docente.h"
+
+1526398310 c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\docente.h
+	"Persona.h"
+	<vector>
+
+1526402378 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\main.cpp
+	<iostream>
+	"Tools.h"
+	"Studente.h"
+	"Docente.h"
+	"Ricercatore.h"
+	"Dipartimento.h"
+
+1526406870 c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\tools.h
+	"Persona.h"
+
+1526398181 c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\studente.h
+	"Persona.h"
+
+1526398244 c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\ricercatore.h
+	<vector>
+	"Persona.h"
+
+1526402207 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\persona.cpp
+	<iostream>
+	"Persona.h"
+
+1526398267 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\ricercatore.cpp
+	"Ricercatore.h"
+
+1526407219 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\studente.cpp
+	"Studente.h"
+
+1526406889 source:c:\users\alber\desktop\programmazione di applicazioni software\nuovo codice\pasw01001\tools.cpp
+	"Persona.h"
+	<string>
+

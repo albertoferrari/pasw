@@ -1,0 +1,4 @@
+Giovanni,Bianchi,72663,AI,Social Network Analysis,Sentiment Analysis
+Giovanni,Bianchi,98765,100,programmazione di applicazioni software,ING-INF/05,101,intelligenza artificiale,ING-INF/05
+Ugo,Bianchi,12234,LIET
+Mario,Neri,987633,LISI
